@@ -55,4 +55,4 @@ The presentation summarizes key findings and visual insights from the Power BI d
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/chimdalu-ifediba-3a322628b) or star ⭐ the repo if you found it useful!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chimdalu-ifediba-3a322628b) or star ⭐ the repo if you found it useful!
